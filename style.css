@@ -1,0 +1,9 @@
+.ativa{
+    background-color: rgb(124, 6, 65);
+}
+.abas button:hover{
+    background-color: rgb(63, 63, 63);
+}
+.hide{
+    display: none;
+}
